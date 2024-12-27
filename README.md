@@ -33,10 +33,11 @@
 ## Input:
 
 ### Output:
+![WhatsApp Image 2024-12-27 at 23 38 22_8b84def8](https://github.com/user-attachments/assets/d8616962-3beb-4ab8-85b5-156c61966f4b)
 
 
-### Name:
-### Register Number:
+### Name:SHAIK LAHIR
+### Register Number:24005737
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
