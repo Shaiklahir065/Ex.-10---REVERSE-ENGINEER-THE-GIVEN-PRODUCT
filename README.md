@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 11/12/2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -32,8 +32,11 @@
 
 ## Input:
 
+![WhatsApp Image 2024-12-28 at 13 47 34_82f472e3](https://github.com/user-attachments/assets/d45c33d6-f2b2-4273-8013-5d8494649310)
+
 ### Output:
-![WhatsApp Image 2024-12-27 at 23 38 22_8b84def8](https://github.com/user-attachments/assets/d8616962-3beb-4ab8-85b5-156c61966f4b)
+
+![WhatsApp Image 2024-12-28 at 13 47 25_1aad5496](https://github.com/user-attachments/assets/16146fd4-ee73-4ab2-95e7-7f4c8818a56c)
 
 
 ### Name:SHAIK LAHIR
